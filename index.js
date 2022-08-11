@@ -21,12 +21,14 @@ let resultado = (num) =>{
             }
 
     }
+    
 
     return result
 
 }
 
+const soma = resultado(10)
 
-console.log (resultado(10))
+console.log (soma)
 
 
